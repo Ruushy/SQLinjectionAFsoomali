@@ -21,7 +21,8 @@ _November 23 at 3:57 AM_
 7.  Weerarada NoSQL iyo XPath Injection.
 
 ---
-#hordhac
+# hordhac
+
 Ku soo dhawow buuggan kooban ee ku saabsan SQL Injection. Inkastoo uusan buuggani si buuxda u dabooli doonin baaxadda weyn ee mowduucan, haddana waxaan rajaynayaa inuu noqdo hage iyo albaab wanaagsan oo uu ka galo qof kasta oo ku cusub barashada amniga web-ka.
 Hadafka ugu weyn ee aan ka leeyahay waa inaan wadaagno aqoon waxtar leh oo aan is-dhaafsano.
 aqoontani waxay leedahay laba waji. Sidaa darteed, mas'uul kama ihi cawaaqibka ka dhasha adeegsiga aqoontan si khaldan. Haddii aad tijaabo ku samayso database ama website aadan fasax u haysan, mas'uuliyadda dembigaas adiga ayaa qaadi doona.
@@ -29,6 +30,8 @@ Si aad si ammaan ah ugu tababarto casharrada ku jira buuggan, waxaa lagama maarm
 Wixii talo, tusaale, ama su'aal dheeri ah, waxaad igala soo xiriiri kartaan:
 Mobile: +252 61 998 7794
 Email: arkani6563@gmail.com
+
+## waxaa dhici karta inta aan qoreynay inuu khalad naga dhacay ama aan wax ka tagnay ee fadlan buuga la deg asigaa ka fiican
 
 
 ## Casharka 1: Hordhaca Weerarada "Injection" iyo Sida Loo Dhaafo "Login"-ka
